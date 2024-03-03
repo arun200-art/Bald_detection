@@ -1,1 +1,0 @@
-# Bald_detection
